@@ -1,2 +1,2 @@
 # Portifólio 
-<a href="https://giulliabildner14.github.io/Portif-lio/Portif-lio.html">Portifólio</a>
+<a href="https://giulliabildner14.github.io/Portifolio/Portif-lio.html">Portifólio</a>
